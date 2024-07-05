@@ -1,2 +1,2 @@
 # eeg-classification
- Analysis of EEG data to classify different cognitive states using advanced deep learning techniques.
+ Analysis of EEG data to classify different cognitive states using advanced deep learning techniques. The data is sourced from the Mental Arithmetic Tasks Dataset available at PhysioNet (https://physionet.org/content/eegmat/1.0.0/). The accompanying research paper (https://www.mdpi.com/2306-5729/4/1/14).
